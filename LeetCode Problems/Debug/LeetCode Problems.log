@@ -1,0 +1,5 @@
+﻿  LeetCode Problems.cpp
+D:\Visual Studio Projects\LeetCode Problems\LeetCode Problems.cpp(25,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\LeetCode Problems\LeetCode Problems.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\LeetCode Problems\LeetCode Problems.cpp(52,21): warning C4018: '<': signed/unsigned mismatch
+  LeetCode Problems.vcxproj -> D:\Visual Studio Projects\LeetCode Problems\Debug\LeetCode Problems.exe
